@@ -1,0 +1,1 @@
+# vgp-projects-template
